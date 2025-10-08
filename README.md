@@ -28,11 +28,8 @@ index.htmll
 page1.html
 page2.html
 
-<h1>What luck will your future hold?‹/h1>
-‹p›Pick a Card.</p>
-<ing src="thefortuneteller.png" alt-"Fortune Teller">
 ‹a href-"page1.html">Card 1</a>
-«a href="page2.html">Card 2</a>
+
 </body>
 </html>
 
