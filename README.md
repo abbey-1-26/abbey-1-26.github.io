@@ -16,8 +16,23 @@
 
 ## no one is illegal on stolen land
 ![immigration-impact-communities-stand-by](https://github.com/user-attachments/assets/a46bfd50-8ef0-404b-8055-7be023e07254)
-    ---
-    layout: page
-    title: "PAGE TITLE HERE"
-    permalink: /URL-PATH/
-    ---
+
+  < IDOCTYPE html>
+<html>
+<head›
+‹title>Test Your Luck‹/title>
+</head>
+‹body>
+D
+index.htmll
+page1.html
+page2.html
+
+<h1>What luck will your future hold?‹/h1>
+‹p›Pick a Card.</p>
+<ing src="thefortuneteller.png" alt-"Fortune Teller">
+‹a href-"page1.html">Card 1</a>
+«a href="page2.html">Card 2</a>
+</body>
+</html>
+
