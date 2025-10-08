@@ -16,3 +16,8 @@
 
 ## no one is illegal on stolen land
 ![immigration-impact-communities-stand-by](https://github.com/user-attachments/assets/a46bfd50-8ef0-404b-8055-7be023e07254)
+    ---
+    layout: page
+    title: "PAGE TITLE HERE"
+    permalink: /URL-PATH/
+    ---
