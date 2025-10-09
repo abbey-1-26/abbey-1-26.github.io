@@ -14,22 +14,21 @@
 </body>
 </html>
 
-## no one is illegal on stolen land
 ![immigration-impact-communities-stand-by](https://github.com/user-attachments/assets/a46bfd50-8ef0-404b-8055-7be023e07254)
 
-  < IDOCTYPE html>
-<html>
-<head›
-‹title>Test Your Luck‹/title>
-</head>
-‹body>
-D
+‹title>no one is illegal on stolen land‹/title>
+</body>
+
 index.htmll
 page1.html
-page2.html
 
 ‹a href-"page1.html">Card 1</a>
+<li class="masthead__menu-item">
+          <a href="https://xxx.github.io/home/research/">Research</a>
+        </li>
+
+<a href="https://www.w3schools.com/" target="_self">Visit W3Schools!</a>
+
 
 </body>
 </html>
-
