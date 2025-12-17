@@ -6,9 +6,9 @@
 <body>
 
 <h1>immigration</h1>
-<p>Help save those who are being hunted</p>
-<p>help save those who cant</p>
-<p>help those who are being punished for having the American </p>
+<p>crossing seas, rivers, oceans</p>
+<p>i see your dreams, struggles, hope</p>
+<p>only to be taken with swift motions</p>
 <p>we claimed this first! nope</p>
 
 </body>
